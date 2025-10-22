@@ -1,0 +1,1 @@
+g = getGrade(score[i],best);
